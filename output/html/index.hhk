@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a722983e5be37476de4d5a3cc0d5dda66"><param name="Name" value="ABSTRACT_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a9a0b898eaa4041a972fa999b1a7a8ad0"><param name="Name" value="AUTHORS_MAX_COUNT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a116a6ee12fe350c4bb14805ad9c57a88"><param name="Name" value="AUTHORS_NAME_MAX_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#aa905aedc4408d663337c6944441af1db"><param name="Name" value="Abstract"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#a3ec7140a0e147a7213a259a86cbf4b52"><param name="Name" value="AppendBlock(byte[] data, string path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a34f8768dbdafd0b40c1ba2f8cde73af4"><param name="Name" value="Authors"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a945518e70de14f0a0fc94427c3ad8099"><param name="Name" value="BOOK_DATA_BLOCK_SIZE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a9f8878edbe4dc57b6d9fbb55271fbd22"><param name="Name" value="Book()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a1c8120f87c8b8a21ecaaa251490e07e8"><param name="Name" value="BookToByteArrayBlock(Book book)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#aa42cce6b93073592b9914d746f4c453c"><param name="Name" value="ByteArrayBlockToBook(byte[] byteArray)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a0814ba2bc27581e01fc79e313aae33b1"><param name="Name" value="CATALOGID_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#af6ccbcae70e9fe65e4b1586e1fc1f5e3"><param name="Name" value="CATEGORY_MAX_COUNT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a8607188711bf55a5ebfb79b57bc362a2"><param name="Name" value="CATEGORY_NAME_MAX_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#adaec62c9c0e937ed0c91d35095ecc833"><param name="Name" value="CITY_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a36c2b9a69bc4c2e27528a4768c9fbec6"><param name="Name" value="CatalogId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ae4bba51e20380e188f6b7f655ca83009"><param name="Name" value="Categories"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a4f28157314047776a3be74488c2f56c8"><param name="Name" value="City"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#acbb87162aa47e1cb2b4a86e86a24c517"><param name="Name" value="DESCRIPTION_MAX_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#abdbd3f3d7492f5a4298c3916e6a21b2b"><param name="Name" value="DeleteBlock(int count, int blocksize, string path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#a78979240b936e4545f7c0506e433c15a"><param name="Name" value="DeleteFile(string path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afe855df1fd3e3a0aac1686d8eddcf8b1"><param name="Name" value="Description"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ab738142a0aad217d9bb2fc2d66094c45"><param name="Name" value="EDITION_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a11b3d1d402cfb126b7eb3643948e4b8f"><param name="Name" value="EDITORS_MAX_COUNT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ae142a34f885c50b82c8bd569e10570fa"><param name="Name" value="EDITOR_NAME_MAX_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad2b70646b82ddef3d7e3077d4f2da99e"><param name="Name" value="Edition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a6a3fcad0751706e9a27906f31cfaa61d"><param name="Name" value="Editors"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#af9af5bb1543da92dd2a74384c3ca9e65"><param name="Name" value="GIVEN_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ab1c215077ec705fa2f3904e7419e1924"><param name="Name" value="Given"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a8d5de0a09bab08c7abaaa6566afc73fe"><param name="Name" value="ID_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a6264947e62214629b4e07d8b9768426d"><param name="Name" value="Id"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_library_app___application.html"><param name="Name" value="LibraryApp_Application"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___application_1_1_program.html"><param name="Name" value="LibraryApp_Application::Program"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_library_app___d_l_l.html"><param name="Name" value="LibraryApp_DLL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a722983e5be37476de4d5a3cc0d5dda66"><param name="Name" value="ABSTRACT_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a9a0b898eaa4041a972fa999b1a7a8ad0"><param name="Name" value="AUTHORS_MAX_COUNT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a116a6ee12fe350c4bb14805ad9c57a88"><param name="Name" value="AUTHORS_NAME_MAX_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#aa905aedc4408d663337c6944441af1db"><param name="Name" value="Abstract"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a34f8768dbdafd0b40c1ba2f8cde73af4"><param name="Name" value="Authors"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a945518e70de14f0a0fc94427c3ad8099"><param name="Name" value="BOOK_DATA_BLOCK_SIZE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a9f8878edbe4dc57b6d9fbb55271fbd22"><param name="Name" value="Book()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a1c8120f87c8b8a21ecaaa251490e07e8"><param name="Name" value="BookToByteArrayBlock(Book book)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#aa42cce6b93073592b9914d746f4c453c"><param name="Name" value="ByteArrayBlockToBook(byte[] byteArray)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a0814ba2bc27581e01fc79e313aae33b1"><param name="Name" value="CATALOGID_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#af6ccbcae70e9fe65e4b1586e1fc1f5e3"><param name="Name" value="CATEGORY_MAX_COUNT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a8607188711bf55a5ebfb79b57bc362a2"><param name="Name" value="CATEGORY_NAME_MAX_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#adaec62c9c0e937ed0c91d35095ecc833"><param name="Name" value="CITY_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a36c2b9a69bc4c2e27528a4768c9fbec6"><param name="Name" value="CatalogId"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ae4bba51e20380e188f6b7f655ca83009"><param name="Name" value="Categories"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a4f28157314047776a3be74488c2f56c8"><param name="Name" value="City"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#acbb87162aa47e1cb2b4a86e86a24c517"><param name="Name" value="DESCRIPTION_MAX_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afe855df1fd3e3a0aac1686d8eddcf8b1"><param name="Name" value="Description"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ab738142a0aad217d9bb2fc2d66094c45"><param name="Name" value="EDITION_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a11b3d1d402cfb126b7eb3643948e4b8f"><param name="Name" value="EDITORS_MAX_COUNT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ae142a34f885c50b82c8bd569e10570fa"><param name="Name" value="EDITOR_NAME_MAX_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad2b70646b82ddef3d7e3077d4f2da99e"><param name="Name" value="Edition"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a6a3fcad0751706e9a27906f31cfaa61d"><param name="Name" value="Editors"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#af9af5bb1543da92dd2a74384c3ca9e65"><param name="Name" value="GIVEN_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ab1c215077ec705fa2f3904e7419e1924"><param name="Name" value="Given"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a8d5de0a09bab08c7abaaa6566afc73fe"><param name="Name" value="ID_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a6264947e62214629b4e07d8b9768426d"><param name="Name" value="Id"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#af81ce9ca6e2abeb3f0a7f5b8210f8c0b"><param name="Name" value="PAGES_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a9e8da542cae41c7a127468571aad36ee"><param name="Name" value="PRICE_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ae9be0d84cbe2103f7f4417441357e18a"><param name="Name" value="PUBLISHER_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afe5efe6b01e95b752c2589af29daf63f"><param name="Name" value="Pages"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afc3929caec2493a27344d905869ed605"><param name="Name" value="Price"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a364a5f9704997ccc7c176ab703f44171"><param name="Name" value="Publisher"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#abe14440ece1737e4c04801adea236cf7"><param name="Name" value="RACKNO_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad81ec1ae2ffef692ac543358e2464b65"><param name="Name" value="RETURN_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a5f341b0c61c11bc3d8167d0765f21e32"><param name="Name" value="ROWNO_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#aaf4c2e8149898b6cdab6fc087852ff21"><param name="Name" value="RackNo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad5d0b9b1a59c72b4cea9f17e4c43e8bf"><param name="Name" value="Return"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a47802515fe6f67f30bbeae050f770126"><param name="Name" value="RowNo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad6ba2aa9f206ad43944f6c22234ddb08"><param name="Name" value="STATUS_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a2ac49ee26422011cde6bb7922260c4bf"><param name="Name" value="Status"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a496ca556cb173a1f585222861f3df453"><param name="Name" value="TAGS_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a0f08ed9215e52d2b532ccdc0955e863e"><param name="Name" value="TAGS_MAX_COUNT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afc5855ebaafba3f36f58043fd7d54aff"><param name="Name" value="TITLE_MAX_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a1a8a21c8d3db0dd47756e3fbe166f525"><param name="Name" value="Tags"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ac1a62e3b39551b52f115977839fd64ee"><param name="Name" value="Title"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a83f98e735f34befd528ebf3df8c50da0"><param name="Name" value="URL_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a96d0f3a13f07d496bce05d5f1eec9922"><param name="Name" value="Url"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad5e57d096000915540ff6ef6397b0b25"><param name="Name" value="YEAR_LENGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html"><param name="Name" value="LibraryApp_DLL::Book"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a7d973629f472cd9e504a6541ad7c2b1a"><param name="Name" value="Year"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html"><param name="Name" value="LibraryApp_DLL::Class1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html"><param name="Name" value="LibraryApp_DLL::Class1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html#aee07dd27a2812a799e63fa29c14922f6"><param name="Name" value="RunMainMenu()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html"><param name="Name" value="LibraryApp_DLL::Class1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html#a6d162d8c76f8af90c8a5fb9b77f7b24c"><param name="Name" value="Start()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1password.html"><param name="Name" value="LibraryApp_DLL::password"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1password.html"><param name="Name" value="LibraryApp_DLL::password"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1password.html#a7dc880f1559752116c66b2a5da4928b3"><param name="Name" value="login()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_library_management.html"><param name="Name" value="LibraryManagement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html"><param name="Name" value="LibraryManagement::FileUtility"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html"><param name="Name" value="LibraryManagement::FileUtility"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#a3ec7140a0e147a7213a259a86cbf4b52"><param name="Name" value="AppendBlock(byte[] data, string path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html"><param name="Name" value="LibraryManagement::FileUtility"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#abdbd3f3d7492f5a4298c3916e6a21b2b"><param name="Name" value="DeleteBlock(int count, int blocksize, string path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html"><param name="Name" value="LibraryManagement::FileUtility"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#a78979240b936e4545f7c0506e433c15a"><param name="Name" value="DeleteFile(string path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html"><param name="Name" value="LibraryManagement::FileUtility"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#a49a5140b26df1664813c020f9a4bacfc"><param name="Name" value="ReadBlock(int count, int blocksize, string path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html"><param name="Name" value="LibraryManagement::FileUtility"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#ad91e1bc27f822e742178dc87e418c948"><param name="Name" value="UpdateBlock(byte[] data, int count, int blocksize, string path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#af81ce9ca6e2abeb3f0a7f5b8210f8c0b"><param name="Name" value="PAGES_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a9e8da542cae41c7a127468571aad36ee"><param name="Name" value="PRICE_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ae9be0d84cbe2103f7f4417441357e18a"><param name="Name" value="PUBLISHER_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afe5efe6b01e95b752c2589af29daf63f"><param name="Name" value="Pages"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afc3929caec2493a27344d905869ed605"><param name="Name" value="Price"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a364a5f9704997ccc7c176ab703f44171"><param name="Name" value="Publisher"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#abe14440ece1737e4c04801adea236cf7"><param name="Name" value="RACKNO_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad81ec1ae2ffef692ac543358e2464b65"><param name="Name" value="RETURN_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a5f341b0c61c11bc3d8167d0765f21e32"><param name="Name" value="ROWNO_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#aaf4c2e8149898b6cdab6fc087852ff21"><param name="Name" value="RackNo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#a49a5140b26df1664813c020f9a4bacfc"><param name="Name" value="ReadBlock(int count, int blocksize, string path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad5d0b9b1a59c72b4cea9f17e4c43e8bf"><param name="Name" value="Return"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a47802515fe6f67f30bbeae050f770126"><param name="Name" value="RowNo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html#aee07dd27a2812a799e63fa29c14922f6"><param name="Name" value="RunMainMenu()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad6ba2aa9f206ad43944f6c22234ddb08"><param name="Name" value="STATUS_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_class1.html#a6d162d8c76f8af90c8a5fb9b77f7b24c"><param name="Name" value="Start()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a2ac49ee26422011cde6bb7922260c4bf"><param name="Name" value="Status"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a496ca556cb173a1f585222861f3df453"><param name="Name" value="TAGS_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a0f08ed9215e52d2b532ccdc0955e863e"><param name="Name" value="TAGS_MAX_COUNT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#afc5855ebaafba3f36f58043fd7d54aff"><param name="Name" value="TITLE_MAX_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a1a8a21c8d3db0dd47756e3fbe166f525"><param name="Name" value="Tags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ac1a62e3b39551b52f115977839fd64ee"><param name="Name" value="Title"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a83f98e735f34befd528ebf3df8c50da0"><param name="Name" value="URL_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_management_1_1_file_utility.html#ad91e1bc27f822e742178dc87e418c948"><param name="Name" value="UpdateBlock(byte[] data, int count, int blocksize, string path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a96d0f3a13f07d496bce05d5f1eec9922"><param name="Name" value="Url"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#ad5e57d096000915540ff6ef6397b0b25"><param name="Name" value="YEAR_LENGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1_book.html#a7d973629f472cd9e504a6541ad7c2b1a"><param name="Name" value="Year"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_library_app___d_l_l_1_1password.html#a7dc880f1559752116c66b2a5da4928b3"><param name="Name" value="login()"></OBJECT>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,98 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {section}{\numberline {1}Overview}{2}{section.1}%
+\contentsline {subsubsection}{\numberline {1.0.1}Lorem Ipsum}{2}{subsubsection.1.0.1}%
+\contentsline {section}{\numberline {2}Namespace Index}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Package List}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Class Index}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Class List}{3}{subsection.3.1}%
+\contentsline {section}{\numberline {4}File Index}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}File List}{4}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Namespace Documentation}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Application Namespace Reference}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}DLL Namespace Reference}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management Namespace Reference}{4}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Class Documentation}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}DLL.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Book Class Reference}{4}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Constructor \& Destructor Documentation}{6}{subsubsection.6.1.1}%
+\contentsline {paragraph}{\numberline {6.1.1.1}Book()}{6}{paragraph.6.1.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Member Function Documentation}{6}{subsubsection.6.1.2}%
+\contentsline {paragraph}{\numberline {6.1.2.1}BookToByteArrayBlock()}{6}{paragraph.6.1.2.1}%
+\contentsline {paragraph}{\numberline {6.1.2.2}ByteArrayBlockToBook()}{6}{paragraph.6.1.2.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Member Data Documentation}{7}{subsubsection.6.1.3}%
+\contentsline {paragraph}{\numberline {6.1.3.1}ABSTRACT\_LENGHT}{7}{paragraph.6.1.3.1}%
+\contentsline {paragraph}{\numberline {6.1.3.2}AUTHORS\_MAX\_COUNT}{7}{paragraph.6.1.3.2}%
+\contentsline {paragraph}{\numberline {6.1.3.3}AUTHORS\_NAME\_MAX\_LENGTH}{7}{paragraph.6.1.3.3}%
+\contentsline {paragraph}{\numberline {6.1.3.4}BOOK\_DATA\_BLOCK\_SIZE}{7}{paragraph.6.1.3.4}%
+\contentsline {paragraph}{\numberline {6.1.3.5}CATALOGID\_LENGHT}{7}{paragraph.6.1.3.5}%
+\contentsline {paragraph}{\numberline {6.1.3.6}CATEGORY\_MAX\_COUNT}{7}{paragraph.6.1.3.6}%
+\contentsline {paragraph}{\numberline {6.1.3.7}CATEGORY\_NAME\_MAX\_LENGTH}{8}{paragraph.6.1.3.7}%
+\contentsline {paragraph}{\numberline {6.1.3.8}CITY\_LENGHT}{8}{paragraph.6.1.3.8}%
+\contentsline {paragraph}{\numberline {6.1.3.9}DESCRIPTION\_MAX\_LENGTH}{8}{paragraph.6.1.3.9}%
+\contentsline {paragraph}{\numberline {6.1.3.10}EDITION\_LENGHT}{8}{paragraph.6.1.3.10}%
+\contentsline {paragraph}{\numberline {6.1.3.11}EDITOR\_NAME\_MAX\_LENGHT}{8}{paragraph.6.1.3.11}%
+\contentsline {paragraph}{\numberline {6.1.3.12}EDITORS\_MAX\_COUNT}{8}{paragraph.6.1.3.12}%
+\contentsline {paragraph}{\numberline {6.1.3.13}GIVEN\_LENGHT}{8}{paragraph.6.1.3.13}%
+\contentsline {paragraph}{\numberline {6.1.3.14}ID\_LENGTH}{8}{paragraph.6.1.3.14}%
+\contentsline {paragraph}{\numberline {6.1.3.15}PAGES\_LENGHT}{8}{paragraph.6.1.3.15}%
+\contentsline {paragraph}{\numberline {6.1.3.16}PRICE\_LENGHT}{8}{paragraph.6.1.3.16}%
+\contentsline {paragraph}{\numberline {6.1.3.17}PUBLISHER\_LENGHT}{8}{paragraph.6.1.3.17}%
+\contentsline {paragraph}{\numberline {6.1.3.18}RACKNO\_LENGHT}{8}{paragraph.6.1.3.18}%
+\contentsline {paragraph}{\numberline {6.1.3.19}RETURN\_LENGHT}{8}{paragraph.6.1.3.19}%
+\contentsline {paragraph}{\numberline {6.1.3.20}ROWNO\_LENGHT}{9}{paragraph.6.1.3.20}%
+\contentsline {paragraph}{\numberline {6.1.3.21}STATUS\_LENGTH}{9}{paragraph.6.1.3.21}%
+\contentsline {paragraph}{\numberline {6.1.3.22}TAGS\_LENGHT}{9}{paragraph.6.1.3.22}%
+\contentsline {paragraph}{\numberline {6.1.3.23}TAGS\_MAX\_COUNT}{9}{paragraph.6.1.3.23}%
+\contentsline {paragraph}{\numberline {6.1.3.24}TITLE\_MAX\_LENGTH}{9}{paragraph.6.1.3.24}%
+\contentsline {paragraph}{\numberline {6.1.3.25}URL\_LENGHT}{9}{paragraph.6.1.3.25}%
+\contentsline {paragraph}{\numberline {6.1.3.26}YEAR\_LENGHT}{9}{paragraph.6.1.3.26}%
+\contentsline {subsubsection}{\numberline {6.1.4}Property Documentation}{9}{subsubsection.6.1.4}%
+\contentsline {paragraph}{\numberline {6.1.4.1}Abstract}{9}{paragraph.6.1.4.1}%
+\contentsline {paragraph}{\numberline {6.1.4.2}Authors}{9}{paragraph.6.1.4.2}%
+\contentsline {paragraph}{\numberline {6.1.4.3}CatalogId}{9}{paragraph.6.1.4.3}%
+\contentsline {paragraph}{\numberline {6.1.4.4}Categories}{9}{paragraph.6.1.4.4}%
+\contentsline {paragraph}{\numberline {6.1.4.5}City}{9}{paragraph.6.1.4.5}%
+\contentsline {paragraph}{\numberline {6.1.4.6}Description}{9}{paragraph.6.1.4.6}%
+\contentsline {paragraph}{\numberline {6.1.4.7}Edition}{10}{paragraph.6.1.4.7}%
+\contentsline {paragraph}{\numberline {6.1.4.8}Editors}{10}{paragraph.6.1.4.8}%
+\contentsline {paragraph}{\numberline {6.1.4.9}Given}{10}{paragraph.6.1.4.9}%
+\contentsline {paragraph}{\numberline {6.1.4.10}Id}{10}{paragraph.6.1.4.10}%
+\contentsline {paragraph}{\numberline {6.1.4.11}Pages}{10}{paragraph.6.1.4.11}%
+\contentsline {paragraph}{\numberline {6.1.4.12}Price}{10}{paragraph.6.1.4.12}%
+\contentsline {paragraph}{\numberline {6.1.4.13}Publisher}{10}{paragraph.6.1.4.13}%
+\contentsline {paragraph}{\numberline {6.1.4.14}RackNo}{10}{paragraph.6.1.4.14}%
+\contentsline {paragraph}{\numberline {6.1.4.15}Return}{10}{paragraph.6.1.4.15}%
+\contentsline {paragraph}{\numberline {6.1.4.16}RowNo}{10}{paragraph.6.1.4.16}%
+\contentsline {paragraph}{\numberline {6.1.4.17}Status}{10}{paragraph.6.1.4.17}%
+\contentsline {paragraph}{\numberline {6.1.4.18}Tags}{10}{paragraph.6.1.4.18}%
+\contentsline {paragraph}{\numberline {6.1.4.19}Title}{10}{paragraph.6.1.4.19}%
+\contentsline {paragraph}{\numberline {6.1.4.20}Url}{10}{paragraph.6.1.4.20}%
+\contentsline {paragraph}{\numberline {6.1.4.21}Year}{11}{paragraph.6.1.4.21}%
+\contentsline {subsection}{\numberline {6.2}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}DLL.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Class1 Class Reference}{11}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Member Function Documentation}{11}{subsubsection.6.2.1}%
+\contentsline {paragraph}{\numberline {6.2.1.1}RunMainMenu()}{11}{paragraph.6.2.1.1}%
+\contentsline {paragraph}{\numberline {6.2.1.2}Start()}{11}{paragraph.6.2.1.2}%
+\contentsline {subsection}{\numberline {6.3}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}File\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility Class Reference}{11}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Member Function Documentation}{12}{subsubsection.6.3.1}%
+\contentsline {paragraph}{\numberline {6.3.1.1}AppendBlock()}{12}{paragraph.6.3.1.1}%
+\contentsline {paragraph}{\numberline {6.3.1.2}DeleteBlock()}{12}{paragraph.6.3.1.2}%
+\contentsline {paragraph}{\numberline {6.3.1.3}DeleteFile()}{12}{paragraph.6.3.1.3}%
+\contentsline {paragraph}{\numberline {6.3.1.4}ReadBlock()}{12}{paragraph.6.3.1.4}%
+\contentsline {paragraph}{\numberline {6.3.1.5}UpdateBlock()}{12}{paragraph.6.3.1.5}%
+\contentsline {subsection}{\numberline {6.4}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}DLL.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}password Class Reference}{12}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Member Function Documentation}{12}{subsubsection.6.4.1}%
+\contentsline {paragraph}{\numberline {6.4.1.1}login()}{12}{paragraph.6.4.1.1}%
+\contentsline {subsection}{\numberline {6.5}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Application.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Program Class Reference}{12}{subsection.6.5}%
+\contentsline {section}{\numberline {7}File Documentation}{13}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Sample\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Markdown\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}File.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}md File Reference}{13}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Program.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Book.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.7}%
+\contentsline {subsection}{\numberline {7.8}Class1.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.8}%
+\contentsline {subsection}{\numberline {7.9}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.9}%
+\contentsline {subsection}{\numberline {7.10}File\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{13}{subsection.7.10}%
+\contentsline {subsection}{\numberline {7.11}Menu.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{14}{subsection.7.11}%
+\contentsline {subsection}{\numberline {7.12}password.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{14}{subsection.7.12}%
+\contentsline {section}{Index}{15}{section*.29}%

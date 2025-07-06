@@ -1,0 +1,11 @@
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\obj\Debug\LibraryApp-Application.csproj.AssemblyReference.cache
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\obj\Debug\LibraryApp-Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\obj\Debug\LibraryApp-Application.csproj.CoreCompileInputs.cache
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\bin\Debug\LibraryApp-Application.exe.config
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\bin\Debug\LibraryApp-Application.exe
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\bin\Debug\LibraryApp-Application.pdb
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\bin\Debug\LibraryApp-DLL.dll
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\bin\Debug\LibraryApp-DLL.pdb
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\obj\Debug\LibraryApp-Application.csproj.CopyComplete
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\obj\Debug\LibraryApp-Application.exe
+C:\Users\Duygu Ayvaz\Desktop\hw3 template\ce103-hw3\LibraryApp-Application\obj\Debug\LibraryApp-Application.pdb
