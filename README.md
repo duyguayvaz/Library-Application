@@ -1,4 +1,4 @@
-```markdown
+
 # 📚 Library Manager Application
 
 Bu proje, basit bir **kütüphane yönetim sistemi** geliştirmeyi amaçlar. Kullanıcılar kitap ekleyebilir, silebilir, güncelleyebilir ve arayabilir. Uygulama sade ve kullanıcı dostu bir arayüze sahiptir.
