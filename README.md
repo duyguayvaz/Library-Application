@@ -16,7 +16,7 @@ Bu proje, basit bir **kütüphane yönetim sistemi** geliştirmeyi amaçlar. Kul
 ## 🗂️ Proje Yapısı
 
 ```bash
-ce103-hw3-2022-2023-duygu-ayvaz/
+Library-Application/
 ├── LibraryApp-Application/     # Uygulamanın kullanıcı arayüzü (WinForms)
 ├── LibraryApp-DLL/             # İş mantığını içeren DLL projesi
 ├── lib_manager_app_setup/      # Kurulum (setup) dosyaları
@@ -85,4 +85,3 @@ dosyasını çalıştırın. Belgeler `docs/` klasöründe yer alacaktır.
 ## 📜 Lisans
 
 Bu proje yalnızca eğitim amaçlı geliştirilmiştir. Herhangi bir ticari kullanım amacı taşımaz.
-```
